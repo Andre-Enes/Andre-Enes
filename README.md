@@ -1,4 +1,14 @@
-## Hi there 👋
+# André Enes
+**`iOS Developer`**
+
+## 📜 Sobre mim
+
+Entrei na turma 2023/2024 da Apple Developer Academy | Mackenzie, onde tive a oportunidade de conhecer o mundo do desenvolvimento iOS. Durante 2 anos, fiz parte de diversos projetos que agregaram muito para minha vida profissional e pessoal também. Consegui me desenvolver na área iOS, tendo criado 4 aplicativos, no qual 2 deles estão disponíveis na App Store, a programação foi feita utilizando Swift, SwiftUI e UIKit, sendo para diferentes plataformas, como iOS, ipadOS e macOS. Busco me aperfeiçoar cada vez mais nesse vasto mundo.
+
+## [Tabsy](https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351)
+
+- O aplicativo **Tabsy** foi desenvolvido para auxiliar o aprendizado de tablaturas para crianças com neurodivergências, por meio de atividades lúdicas e gameficadas.
+- das 
 
 <!--
 **Andre-Enes/Andre-Enes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
