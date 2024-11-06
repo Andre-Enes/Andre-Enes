@@ -28,10 +28,10 @@ Entrei na turma 2023/2024 da Apple Developer Academy | Mackenzie, onde tive a op
 - O aplicativo foi praticamente todo desenvolvido em SwiftUI, apenas tendo algumas partes especificas utilizando de AppKit, como o Spotlight nativo da Apple.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6182a43-26de-4b20-a463-7b471d8d8885" alt="Imagem 1" width="500"/>
-  <img src="https://github.com/user-attachments/assets/dba93dd0-08fa-44d8-b2f4-9b6f6f809920" alt="Imagem 3" width="500"/>
-  <img src="https://github.com/user-attachments/assets/1ad47ba2-72b8-44c8-9793-0a70d68e9f46" alt="Imagem 3" width="500"/>
-  <img src="https://github.com/user-attachments/assets/ae020869-d610-4dd9-b102-bb52e3ebd654" alt="Imagem 2" width="500"/>
+  <img src="https://github.com/user-attachments/assets/e6182a43-26de-4b20-a463-7b471d8d8885" alt="Imagem 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/dba93dd0-08fa-44d8-b2f4-9b6f6f809920" alt="Imagem 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1ad47ba2-72b8-44c8-9793-0a70d68e9f46" alt="Imagem 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ae020869-d610-4dd9-b102-bb52e3ebd654" alt="Imagem 2" width="400"/>
 </p> 
 
 ## Sr.Bhas
