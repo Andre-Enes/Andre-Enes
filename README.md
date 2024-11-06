@@ -3,7 +3,7 @@
 
 ## 📜 Sobre mim
 
-Entrei na turma 2023/2024 da Apple Developer Academy | Mackenzie, onde tive a oportunidade de conhecer o mundo do desenvolvimento iOS. Durante 2 anos, fiz parte de diversos projetos que agregaram muito para minha vida profissional e pessoal também. Consegui me desenvolver na área iOS, tendo criado 3 grandes aplicativos, no qual 2 deles estão disponíveis na App Store, a programação foi feita utilizando Swift, SwiftUI e UIKit, sendo para diferentes plataformas, como iOS, ipadOS e macOS. Busco me aperfeiçoar cada vez mais nesse vasto mundo.
+Entrei na turma 2023/2024 da Apple Developer Academy | Mackenzie, onde tive a oportunidade de conhecer o mundo do desenvolvimento iOS. Durante 2 anos, fiz parte de diversos projetos que agregaram muito para minha vida profissional e pessoal também. Consegui me desenvolver na área iOS, tendo criado 3 grandes aplicativos, no qual 2 deles estão disponíveis na App Store, a programação foi feita utilizando Swift, SwiftUI e UIKit, sendo para diferentes plataformas, como iOS, iPadOS e macOS. Busco me aperfeiçoar cada vez mais nesse vasto mundo.
 
 ## [Tabsy](https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351)
 
