@@ -41,10 +41,10 @@ Entrei na turma 2023/2024 da Apple Developer Academy | Mackenzie, onde tive a op
 - Utilizamos o framework SpriteKit para desenvolver todo o aplicativo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a861d2ba-5e8c-41da-95e3-591ac7814149" alt="Imagem 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/b1285540-80e5-4610-b405-9ac29b71a6d3" alt="Imagem 3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/7f304bab-486d-4db7-91d5-273e9e80b5d4" alt="Imagem 2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/b85306b4-bd10-4d82-8ba5-d39cff3820e0" alt="Imagem 3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/e3a11bea-e16f-4c2c-929f-9324c637b776" alt="Imagem 3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/35b73de1-8f2e-4368-b4de-f6c27ace069a" alt="Imagem 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a861d2ba-5e8c-41da-95e3-591ac7814149" alt="Imagem 1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b1285540-80e5-4610-b405-9ac29b71a6d3" alt="Imagem 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7f304bab-486d-4db7-91d5-273e9e80b5d4" alt="Imagem 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b85306b4-bd10-4d82-8ba5-d39cff3820e0" alt="Imagem 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e3a11bea-e16f-4c2c-929f-9324c637b776" alt="Imagem 3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/35b73de1-8f2e-4368-b4de-f6c27ace069a" alt="Imagem 2" width="400"/>
 </p> 
